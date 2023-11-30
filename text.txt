@@ -1,0 +1,5 @@
+This is a sample paragraph.
+It has multiple sentences Each sentence should end with a dot But sometimes they don't.
+In such cases, the gofmt command should insert the missing dots.
+This is another paragraph with missing dots
+This is the last sentence of the last paragraph.
